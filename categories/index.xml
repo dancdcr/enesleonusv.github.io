@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Optometria | ENES LEON</title>
+    <link>https://enesleonusv.github.io/categories/</link>
+    <description>Recent content in Categories on Optometria | ENES LEON</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Aug 2024 21:29:20 +0200</lastBuildDate>
+    <atom:link href="https://enesleonusv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programs</title>
+      <link>https://enesleonusv.github.io/categories/programs/</link>
+      <pubDate>Mon, 26 Aug 2024 21:29:20 +0200</pubDate>
+      <guid>https://enesleonusv.github.io/categories/programs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://enesleonusv.github.io/categories/research/</link>
+      <pubDate>Mon, 26 Aug 2024 21:29:20 +0200</pubDate>
+      <guid>https://enesleonusv.github.io/categories/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trials</title>
+      <link>https://enesleonusv.github.io/categories/trials/</link>
+      <pubDate>Mon, 26 Aug 2024 21:29:20 +0200</pubDate>
+      <guid>https://enesleonusv.github.io/categories/trials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://enesleonusv.github.io/categories/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <guid>https://enesleonusv.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pseudo</title>
+      <link>https://enesleonusv.github.io/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <guid>https://enesleonusv.github.io/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starting</title>
+      <link>https://enesleonusv.github.io/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <guid>https://enesleonusv.github.io/categories/starting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lorem</title>
+      <link>https://enesleonusv.github.io/categories/lorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://enesleonusv.github.io/categories/lorem/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
